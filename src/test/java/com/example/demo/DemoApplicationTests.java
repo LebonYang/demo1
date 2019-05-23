@@ -16,4 +16,8 @@ public class DemoApplicationTests {
 	public void contextss(){
 
 }
+@Test
+public String Add(){
+	return "";
+}
 }
