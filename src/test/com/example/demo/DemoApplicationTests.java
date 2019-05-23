@@ -24,5 +24,11 @@ public class DemoApplicationTests {
 	public Integer add(){
 	return 1;
 }
+/**
+这是什么方法
+**/
+public  void adds(){
+	return ;
+}
 }
 }
